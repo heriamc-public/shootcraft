@@ -1,0 +1,4 @@
+name: HeriaShootCraft
+version: 1.0.0
+main: fr.heriamc.games.shootcraft.ShootCraftAddon
+depend: [HeriaGameEngine]
